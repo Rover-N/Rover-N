@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rover-N
-- 👀 I’m interested in the basics of programing
-- 🌱 I’m currently learning a bit about developing game mods
-- 💞️ I’m looking to collaborate on nothing for now
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m Rover-N, you can also call me En
+- 👀 I’m interested in game design and music
+- 🌱 I’m currently learning about modding video games
+- 💞️ I’m looking to collaborate on nothing for the moment
+- 😄 Pronouns: They/Him
 - ⚡ Fun fact: The mitochondria is the powerhouse of the cell
 
 <!---
