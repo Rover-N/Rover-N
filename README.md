@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rover-N, you can also call me En
 - 👀 I’m interested in game design and music
-- 🌱 I’m currently learning about modding video games
+- 🌱 I’m currently learning about game design
 - 💞️ I’m looking to collaborate on nothing for the moment
 - 😄 Pronouns: They/Him
 - ⚡ Fun fact: The mitochondria is the powerhouse of the cell
